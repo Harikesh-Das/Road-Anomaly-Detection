@@ -2,7 +2,6 @@
 
 This project presents a deep learning-based system for detecting road potholes using YOLOv8 instance segmentation. It is designed to help with intelligent transportation systems by detecting road surface anomalies in real-time from video input.
 
-![Pothole Detection Demo](results/sample_frame.png)
 
 ---
 
@@ -26,5 +25,5 @@ This project presents a deep learning-based system for detecting road potholes u
 
 ---
 
-## 📁 Project Structure
+
 
