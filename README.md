@@ -179,14 +179,6 @@ If you would like to contiribute 😁, Please follow these steps:
 
 ---
 
-## 📧 Contact
-
-**Project Link:** [https://github.com/your-username/pothole-detection-yolov8](https://github.com/your-username/pothole-detection-yolov8)
-
-**For questions or collaborations:** your.email@example.com
-
----
-
 <div align="center">
   
 ### Thanks for your contribuition
